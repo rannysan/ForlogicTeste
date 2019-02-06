@@ -2,4 +2,4 @@ Testando e alterando o tipo de arquivo e agora o texto
 
 Novo teste by Lucas T 
 
-Teste concluido, branchs funcionando
+Teste concluido, branchs funcionando e os merges tbm
