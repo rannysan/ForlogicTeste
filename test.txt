@@ -1,9 +1,5 @@
-Testando e alterando o tipo de arquivo
+Testando e alterando o tipo de arquivo eagora o texto
 
-Testando by Lucas T
+Testando by Lucas T new
 
-Testando e alterando o tipo de arquivo
-
-Testando 123456
-
-Testando by Lucas T
+Testando 123456789
